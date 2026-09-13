@@ -283,27 +283,6 @@ Provide voice guidance through the MP3 player and speaker.
                        ▼           ▼
                     DC Motor    DC Motor
 
-📸 Project Images
-
-Add project images to the repository and reference them here.
-
-Robot Prototype
-
-docs/images/robot.jpg
-
-![Robot Prototype](docs/images/robot.jpg)
-
-Connection Schematic
-
-docs/images/connection-schematic.png
-
-![Connection Schematic](docs/images/connection-schematic.png)
-
-Example Generated Map
-
-docs/images/room-map.png
-
-![Example Room Map](docs/images/room-map.png)
 
 🚀 Future Improvements
 
